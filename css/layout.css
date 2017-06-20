@@ -1,0 +1,33 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 1.2rem;
+}
+
+.container {
+  width: 6.667rem;
+  height: 80rem;
+}
+
+.footer {
+  position: fixed;
+  background: #ccc;
+  width: 100%;
+  bottom: 0;
+}
+
+.grid {
+  height: 40px;
+  line-height: 40px;
+  display: flex;
+}
+
+.grid-cell {
+  flex: 1;
+  text-align: center;
+  cursor: pointer;
+}

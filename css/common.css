@@ -1,0 +1,13 @@
+/*// "cssrem.rootFontSize" : 25*/
+
+body {
+    font-size: 1.25rem;
+    width: 4.6875rem;
+    height: 6.25rem;
+    margin: 1.25rem;
+}
+
+.ft {
+    width: 1rem;
+    height: 1rem;
+}
